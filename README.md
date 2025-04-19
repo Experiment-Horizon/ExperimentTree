@@ -63,6 +63,8 @@ Key Features:
     from exptree.src import tree
     ```
 
+3. Check example notebooks on `how to use`
+
 ## Usage
 
 ### API Overview
@@ -124,6 +126,6 @@ Resume/Add More Experiments → Add more runs or experiments.
 
 ## Credits
 
-Some part of this module is generated using Claude.ai, chatgpt, gemini, perplexity
+Some parts of this module are generated using Claude.ai, chatgpt, gemini, perplexity using task oriented prompts
 
 
