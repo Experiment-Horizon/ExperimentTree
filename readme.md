@@ -45,7 +45,7 @@ Key Features:
 * **Metric Logging:** Store evaluation results for each run.
 * **Artifact Logging:** Log relevant files and visualizations associated with each run.
 * **Experiment Comparison:** Analyze and compare the results of different runs.
-* **Git Integration:** Export experiment metadata to a structured file(JSON) that can be tracked with Git for version control.
+* **Git Integration:** Export experiment metadata to a file(JSON) that can be tracked with Git for version control.
 * **Resume:** Load previously saved experiment metadata to continue work.
 * **External Links:** Add links to external resources like TensorBoard for detailed analysis(included in artifacts).
 * **Image Artifacts:** Log images to visualize training curves, ROC curves, and other relevant plots(included in artifacts).
