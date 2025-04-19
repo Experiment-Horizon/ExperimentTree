@@ -60,7 +60,7 @@ Key Features:
 
 2.  **Import the Library:**
     ```python
-    from exptree import tree
+    from exptree.src import tree
     ```
 
 ## Usage
