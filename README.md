@@ -86,8 +86,8 @@ Key Features:
 
 ### Starter Notebooks
 
-* [Experiment Tracking.ipynb](Experiment%20Tracking.ipynb)
-* [Prompt Tracking.ipynb](Prompt%20Tracking.ipynb)
+* [Experiment Tracking.ipynb](examples/Experiment%20Tracking.ipynb)
+* [Prompt Tracking.ipynb](examples/Prompt%20Tracking.ipynb)
 
 ## 🧭  User Journey: Experiment Tracking
 1. Setup Phase
