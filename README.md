@@ -118,7 +118,7 @@ Resume/Add More Experiments → Add more runs or experiments.
 
 ### Run Dashboard
 
-[run_demo.mov](images/run_demo.mov)
+[run_demo-ezgif.com-video-to-gif-converter.gif](images/run_demo-ezgif.com-video-to-gif-converter.gif)
 
 ### Prompt tracking
 ![prompttracking.png](images/prompttracking.png)
